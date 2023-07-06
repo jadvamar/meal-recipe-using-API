@@ -1,1 +1,1 @@
-https://meealpreps.000webhostapp.com/
+https://mealpreps.000webhostapp.com/
