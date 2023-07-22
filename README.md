@@ -11,6 +11,11 @@ Hosted website [mealpreps.000webhostapp.com](https://mealpreps.000webhostapp.com
 # API which we have used 
 `https://www.themealdb.com/api/json/v1/1/search.php?s=${searchInputTxt}`
 
+# Technology used
+`HTML`
+`CSS`
+`java Script`
+`API`
 
 
 
