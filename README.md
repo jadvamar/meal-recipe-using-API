@@ -3,17 +3,15 @@ Welcome to our food recipe finding project, where culinary inspiration awaits! P
 
 
 ## Visit hosted website by clicking on this 
-[mealpreps.000webhostapp.com](https://mealpreps.000webhostapp.com/)
+Hosted website [mealpreps.000webhostapp.com](https://mealpreps.000webhostapp.com/)
 
-To run this project, you will need to add the following environment variables to your .env file
+### Website of API
+[https://www.themealdb.com/api.php](https://www.themealdb.com/api.php)
 
 ## API which we have used 
 `https://www.themealdb.com/api/json/v1/1/search.php?s=${searchInputTxt}`
 
-### Website of API
 
-
-[https://www.themealdb.com/api.php](https://www.themealdb.com/api.php)
 
 
 
