@@ -3,7 +3,7 @@ Welcome to our food recipe-finding project, where culinary inspiration awaits! P
 
 
 # Visit hosted website by clicking on this 
-Hosted website [Here](https://mealpreps.000webhostapp.com/)
+Hosted website: [Click Here](https://mealpreps.000webhostapp.com/)
 
 # Website of API
 [https://www.themealdb.com/api.php](https://www.themealdb.com/api.php)
